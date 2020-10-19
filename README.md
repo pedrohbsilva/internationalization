@@ -1,4 +1,4 @@
-# internationalization
+# Internationalization
 
 Este projeto utiliza os propriedades do react-i18next e i18next, que são bibliotecas específicas
 para realizar internacionalizações dentro de diversos softwares.
